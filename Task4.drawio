@@ -1,0 +1,145 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Страница — 1" id="TS6Tt6w8D0YLxeofmGAR">
+    <mxGraphModel dx="2046" dy="1180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IOaWybDoFz8DKpO_37cE-2" value="Снижение производительности и стабильности системы" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="770" y="470" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="IOaWybDoFz8DKpO_37cE-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" target="IOaWybDoFz8DKpO_37cE-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="525" as="sourcePoint" />
+            <mxPoint x="440" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOaWybDoFz8DKpO_37cE-4" value="Безопасность" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-100" y="210" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IOaWybDoFz8DKpO_37cE-5" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="IOaWybDoFz8DKpO_37cE-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="510" as="sourcePoint" />
+            <mxPoint x="440" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOaWybDoFz8DKpO_37cE-6" value="Утечки данных" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="300" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IOaWybDoFz8DKpO_37cE-7" value="Несанкционированный доступ&lt;div&gt;при переходе&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="350" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IOaWybDoFz8DKpO_37cE-8" value="Нарушение требований 152-ФЗ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="420" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IOaWybDoFz8DKpO_37cE-9" value="Слабая защита" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry y="470" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IOaWybDoFz8DKpO_37cE-10" value="Интеграции" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-100" y="830" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IOaWybDoFz8DKpO_37cE-11" value="" style="endArrow=none;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="IOaWybDoFz8DKpO_37cE-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="630" as="sourcePoint" />
+            <mxPoint x="170" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOaWybDoFz8DKpO_37cE-12" value="Недоступность системы" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="770" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IOaWybDoFz8DKpO_37cE-13" value="Несовместимость API" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-145" y="710" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IOaWybDoFz8DKpO_37cE-14" value="Потеря данных" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-75" y="660" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IOaWybDoFz8DKpO_37cE-15" value="Сложность отладки" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-45" y="610" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IOaWybDoFz8DKpO_37cE-16" value="Данные" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="193" y="210" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IOaWybDoFz8DKpO_37cE-17" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="IOaWybDoFz8DKpO_37cE-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="463" y="510" as="sourcePoint" />
+            <mxPoint x="733" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOaWybDoFz8DKpO_37cE-18" value="Нарушение консистентности" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="86" y="300" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IOaWybDoFz8DKpO_37cE-19" value="Частичная потеря" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="183" y="360" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IOaWybDoFz8DKpO_37cE-20" value="Нарушение требований 152-ФЗ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="148" y="420" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IOaWybDoFz8DKpO_37cE-21" value="Дублирование" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="267" y="470" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IOaWybDoFz8DKpO_37cE-22" value="Технологии" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="193" y="830" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IOaWybDoFz8DKpO_37cE-23" value="" style="endArrow=none;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="IOaWybDoFz8DKpO_37cE-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="683" y="630" as="sourcePoint" />
+            <mxPoint x="463" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOaWybDoFz8DKpO_37cE-24" value="Низкая отказоостуйчивость" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="63" y="770" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IOaWybDoFz8DKpO_37cE-25" value="Несовместимость версий" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="108" y="710" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IOaWybDoFz8DKpO_37cE-26" value="Сложность мониторинга" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="158" y="660" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IOaWybDoFz8DKpO_37cE-27" value="Низкая производительность" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="188" y="610" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IOaWybDoFz8DKpO_37cE-28" value="Процессы" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="467" y="210" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IOaWybDoFz8DKpO_37cE-29" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="IOaWybDoFz8DKpO_37cE-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="737" y="510" as="sourcePoint" />
+            <mxPoint x="1007" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOaWybDoFz8DKpO_37cE-30" value="Недостаточное тестирование" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="355" y="300" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IOaWybDoFz8DKpO_37cE-31" value="Отсутствие плана перехода" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="422" y="360" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IOaWybDoFz8DKpO_37cE-32" value="Неэффективная коммуникация" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="422" y="420" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IOaWybDoFz8DKpO_37cE-33" value="Срыв сроков" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="546" y="470" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IOaWybDoFz8DKpO_37cE-34" value="Персонал" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="463" y="830" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IOaWybDoFz8DKpO_37cE-35" value="" style="endArrow=none;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="IOaWybDoFz8DKpO_37cE-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="953" y="630" as="sourcePoint" />
+            <mxPoint x="733" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOaWybDoFz8DKpO_37cE-36" value="Недостаток компетенций" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="338" y="770" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IOaWybDoFz8DKpO_37cE-37" value="Сопротивление изменениям" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="368" y="710" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IOaWybDoFz8DKpO_37cE-38" value="Нехватка времени на обучение" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="403" y="660" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IOaWybDoFz8DKpO_37cE-39" value="Ошибки персонала" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="488" y="610" width="150" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
